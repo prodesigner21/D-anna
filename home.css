@@ -121,5 +121,8 @@ header a{
     .pic img{
         width: 90%;
     }
+    header{
+        gap: 10px;
+     }   
    
 }
